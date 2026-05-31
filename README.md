@@ -152,7 +152,7 @@ python minesweeper.py
 环境要求：Python 3.x。tkinter 是 Python 标准库组件，无需额外安装依赖。   
 
 ## 八、成品展示   
-<img width="577" height="508" alt="屏幕截图 2026-05-31 075521" src="https://github.com/user-attachments/assets/a1eb1215-93f0-4bc4-b4ed-cd3c75d8d5bc" />     
-大致效果
+<img width="577" height="508" alt="屏幕截图 2026-05-31 075521" src="https://github.com/user-attachments/assets/a1eb1215-93f0-4bc4-b4ed-cd3c75d8d5bc" />          
+ 大致效果
 
 
